@@ -1,0 +1,2 @@
+# Read-and-Extract-Text-from-the-PDF-using-python-by-using-external-module-pyPDF2-
+Here, I am extracting and reading the text from the PDF. We not only reading and extracting but also we have plenty of options are available for the project but, due to less knowledge, I am not able to do this project completely so, I am inviting to all the open source contributor to contribute in this project and show case your skills and learning.
